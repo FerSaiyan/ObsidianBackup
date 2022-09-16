@@ -7,8 +7,12 @@
         "id": "3204df26bc2e629a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Análise da minha rotina.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Zettelkasten/Análise da minha rotina.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Zettelkasten/Análise da minha rotina.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -99,12 +105,16 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Zettelkasten/Análise da minha rotina.md"
+          }
         }
       }
     ],
     "currentTab": 0
   },
   "active": "3204df26bc2e629a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Projects/Stem Cells.md"
+  ]
 }
