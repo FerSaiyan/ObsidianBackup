@@ -1,0 +1,25 @@
+13/4/22
+- [x] Create a database for the updated neurons when succeeded, 
+- [x] Create a and another one for the working neurons before another action is triggered. Perhaps this one is not needed
+- [ ] Transform all the neurons from neuron queue into matrices that will be sent to the GPU
+	- [x] Learn how to retrieve values from the database
+	- [x] Learn to make an array with the retrieved values
+	- [ ] Using the NeuronQueue reference, make an array with the selected neurons and synapses operation
+- [ ] When sending the neurons array to neuron firing, I will send an individual request for every synapse fired. Every request will be composed of the relevant information from the pre synpase neuron and from the post synapse neuron. There will need to a way of indexing this neurons so that their information can be saved onto a matrix that the GPU will save and will be used to perform new calculation or to update the database
+- [ ] Since the first run of the function is slower on the GPU, the first run can be a dummy and when writting to the database, it will just be ignored
+- [ ] Make all the arrays the same size with padding, including plasticity buffs and synapses_list
+- [ ] Program the neuron firing function to work via the GPU
+	- [ ] First, the array that will be sent will contain the synapses and the post synaptic neuron and also the probability of firing number
+	- [ ] Along with the array, the expected action will be sent and a boolean variable, and if the result is equal to the expected action, the bool var will be true. This will make the array be sent to update the database
+	- [ ] There also needs to be sent an array that will be populated with the neurons to be fired in the next iteration. Its size will be the synapses number, since the maximum amount of neuron to be activated would be in the case that every sypnapses makes the neuron cross the threshold
+	- [ ] Reprogram synaptogenesys and synaptic prunning
+- [x] At every round successful round, increase the number that iterates through the images list to be opened
+- [ ] Program the Vision function to work via the GPU
+- [ ] New ideas
+	- [ ] I will have an array with all the neurons and an array with all the synapses. I will also have a copy of each of those
+	- [ ] Tomorrow I will spend my time rewriting the neuron firing, synaptogenesis, synaptic prunning and vision functions.
+	- [ ] I think that it will be important to send an array with all the images info to the GPU also
+	- [ ] It is also important for the first trials to have a print statement in order for me to know if it's working
+	- [ ] I also have to see what is the maximum number of synapses a neuron usually has
+	- [ ] Perhaps I will be able to test tomorrow
+[[AI]], [[Computing]], [[CUDA]],
