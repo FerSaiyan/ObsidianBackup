@@ -5,5 +5,8 @@
 - The main arguments are that cows younglins are separated from their mothers since birth, that their offspring are killed or sentenced to a life their parents and don't get the nutrition their nature has made them need, cows are force impregnated, pregnancy isn't something pleasing or good for the cow, the calcium in the milk often comes from the cows bones, just like with chickens.
 - I will keep myself familiarized with the vegan arguments,  just so that I don't forget them
 - I will also join the vegan subreddit
+16/9/22
+- I have successfully become a vegan after that! Such awesome, such cool, to the moon!
+- I have also been taking B-12 vitamins since they are very important 
 
 [[Vegan]], [[Animals]]

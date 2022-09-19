@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3204df26bc2e629a",
+        "id": "8c331067bd40fb3d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Genetic Engineering.md",
+            "file": "Projects/Projects Hub.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Genetic Engineering.md",
+            "file": "Projects/Projects Hub.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Genetic Engineering.md",
+            "file": "Projects/Projects Hub.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,16 +106,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Genetic Engineering.md"
+            "file": "Projects/Projects Hub.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "3204df26bc2e629a",
+  "active": "8c331067bd40fb3d",
   "lastOpenFiles": [
-    "Zettelkasten/Análise da minha rotina.md",
-    "Projects/Stem Cells.md"
+    "Projects/AAV_Vectors.md",
+    "Projects/Epigenetic Pain Killer.md",
+    "Projects/CAR-T Cells.md",
+    "Zettelkasten/Depression Discussion.md",
+    "Zettelkasten/Accelerated frame of reference and age of the universe.md",
+    "Projects/Lab Equipments.md",
+    "Projects/Embryos without brains.md",
+    "Projects/Sweet Dreams for mouse.md",
+    "Projects/Stem Cells.md",
+    "Zettelkasten/Compatiblize equations.md"
   ]
 }
